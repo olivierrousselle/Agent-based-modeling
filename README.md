@@ -1,4 +1,4 @@
-# Agent based modeling
+# Agent based modeling of marine ecosystems
 This project presents the agent-based modeling of the evolution of coral reefs and fish populations in the island of Moorea (French Polynesia), 
 by taking into account the impacts of tourism, fishing, climate change,... We model the trophic interactions with a Lotka-Volterra model, and also the interactions between fishermen, trophic groups and tourist operators. The results are generated through global, temporal (time series), and spatial (GIS maps) outputs. This is a decision-making tool that can be transposed to other ecological and economic situations, and other geographical areas, by modifying the parameters and changing the input map data.
 
